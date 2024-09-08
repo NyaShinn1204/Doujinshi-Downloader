@@ -2,6 +2,12 @@
   どうじんしダウンローダー
 </h1>
 
+
+<h3 align="center">
+  [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.en.md)
+</h3>
+
+
 <h3 align="center">
   超シンプルなダウンローダーです
 </h3>
