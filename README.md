@@ -25,6 +25,13 @@ git clone https://github.com/NyaShinn1204/Doujinshi-Downloader.git
 pip install -r requirements.txt
 ```
 
+## How to use
+
+> [!TIP]
+> 時々システムが変更されて、壊れている場合があります。その時は報告してください
+
+### 考え中... どうすればいいですかね...?
+
 ## Support List
 
 現在サポートされているリストです
@@ -34,4 +41,4 @@ pip install -r requirements.txt
 - [ ] [Hitomi.la](https://hitomi.la)
 - [ ] [同人すまーと](https://ddd-smart.net)
 - [x] [NyaHentai](https://nyahentai.re)
-- [x] [エロモフ](https://ja.hentaipaw.com)
+- [x] [エロモフ](https://ja.hentaipaw.com) 破損確認済み
